@@ -1,0 +1,45 @@
+{
+    "Login" : "Log In",
+    "Add New" : "Add New",
+    "Save" : "Save",
+    "Update" : "Update",
+    "Close" : "Close",
+
+    "New Role" : "New Role",
+    "new_donor" : "New Donor",
+    "update_donor" : "Update Donor",
+    "f_name" : "First Name",
+    "m_name" : "Middle Name",
+    "l_name" : "Last Name",
+    "nick_name" : "Nick Name",
+    "email" : "Email",
+    "mobile" : "Mobile",
+    "dob" : "Date of Birth",
+    "house" : "House",
+    "floor" : "Floor",
+    "street" : "Street",
+    "town" : "Town",
+    "city" : "City",
+    "country" : "Country",
+    "profile_image" : " Profile Image",
+    "nid_image" : " NID/Passport/Licence Image",
+    "zip" : "Zip Code",
+    "about_me" : "About Me",
+    "password" : "Password",
+    "confirm_password" : "Confirm password",
+    "physical_address" : "Physical Address",
+    "parent_name" : "Parent Name",
+    "parent_email" : "Parent Email",
+    "parent_mobile" : "Parent Mobile",
+    "parent_address" : "Parent Address",
+    
+
+    "New Role" : "New Role",
+
+    "new_employee" : "New Employee",
+    "update_employee" : "Update Employee",
+    "Job Status" : "Job Status",
+    "Designation" : "Designation"
+    
+
+}
